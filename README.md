@@ -13,7 +13,3 @@ Supports arithmetic operations (+, -, ×, ÷, %, and exponents) with a clean, re
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
